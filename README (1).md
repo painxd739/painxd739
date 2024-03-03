@@ -1,22 +1,22 @@
 ## About Me:
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/622765592629215233)](https://discord.com/users/622765592629215233)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1078333867175465162)](https://discord.com/users/1078333867175465162)
 
 
-I Am Void that skid Discord Bots codes and Websites!
+I Am Pain xD that skid Discord Bots codes and Websites!
 - 🔭 I’m currently working on public selfbot
-- Discord - [jodz.xin](https://discord.com/users/622765592629215233)
-- Instagram - [aayus.not.found](https://instagram.com/aayus.not.found)
+- Discord - [jodz.xin](https://discord.com/users/1078333867175465162)
+- Instagram - [aayus.not.found](https://instagram.com/jodz.xin)
 
 ## Visitors
-![jodz.xin](https://profile-counter.glitch.me/voidfy69/count.svg)
+![jodz.xin](https://profile-counter.glitch.me/painxd739/count.svg)
 
 
 # My GitHub Stats 📊
 
-[![GitHub](https://github-readme-stats.vercel.app/api?username=voidfy69&theme=tokyonight)](https://github.com/voidfy69)
+[![GitHub](https://github-readme-stats.vercel.app/api?username=painxdxd739&theme=tokyonight)](https://github.com/voidfy69)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=voidfy69&theme=tokyonight&layout=compact)](https://github.com/voidfy69)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=painxdxd739&theme=tokyonight&layout=compact)](https://github.com/painxdxd739)
 
 
 
